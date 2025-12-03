@@ -1,0 +1,16 @@
+{
+  "name": "03mongoosmodel",
+  "version": "1.0.0",
+  "description": "set models using mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek goud",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^9.0.0"
+  }
+}
